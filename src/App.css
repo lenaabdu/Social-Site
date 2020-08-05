@@ -1,0 +1,49 @@
+    .home {
+        margin-top: 100px;
+    }
+    
+    .Color {
+        color: #007bff;
+    }
+    
+    p {
+        color: #29505B;
+    }
+    
+    .nav-link {
+        color: white;
+    }
+    
+    .Container {
+        padding: 10px;
+        margin: 30px;
+        width: 80%;
+        margin-top: 100px;
+    }
+    
+    .root {
+        margin-Top: 130px;
+        max-Width: 60%;
+        margin-Left: 20%;
+        margin-Right: 20%;
+        margin-bottom: 100px;
+    }
+    
+    .avatar {
+        background: red;
+    }
+    
+    .media {
+        height: 0;
+        padding-Top: 56.25%;
+    }
+    
+    .expand {
+        transform: rotate(0deg);
+        margin-Left: auto;
+        transition: step-end;
+    }
+    
+    .margin {
+        margin-bottom: 10px;
+    }
